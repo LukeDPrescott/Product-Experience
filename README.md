@@ -16,7 +16,7 @@ A product expert with 6+ years in SaaS technical solutions and projects. Below y
 
 <b>Validation Methods</b>
 
-<b>Wireframe & Prototype</b>
+<b>Signal Feature Demo</b>
 
 <b>Launch Plan</b>
 
