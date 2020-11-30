@@ -5,6 +5,12 @@ A product expert with 6+ years in SaaS technical solutions and projects. Below y
 
 # Product School Project - Streamium
 
+<img src="Streamium SIgn Up Page.jpg"
+     alt="Streamium Sign Up Page.jpg"
+     style="float: left; margin-right: 10px;" />
+
+
+
 <b>Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
 
   Financials model inputs are;
