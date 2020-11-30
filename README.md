@@ -32,5 +32,6 @@ A product expert with 6+ years in SaaS technical solutions and projects. Below y
      alt="Scopo Logo.jpg"
      style="float: left; margin-right: 0.5px;" />
  
-Luke Prescott />
+Luke Prescott
+
 prescottdluke@gmail.com | 323-806-9389
