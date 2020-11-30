@@ -8,7 +8,7 @@ A product expert with 6+ years in SaaS technical solutions and projects. Below y
 <img src="Streamium SIgn Up Page - Iphone.png"
      width="50%" height="50%"
      alt="Streamium SIgn Up Page - Iphone.png"
-     style="float: left; margin-right: 5px;" />
+     style="float: left; margin-right: 1px;" />
 
 
 
