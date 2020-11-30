@@ -3,7 +3,7 @@
 Hi, I'm Luke,
 A product expert with 6+ years in SaaS technical solutions and projects. Below you will find information on the products that I have worked on, whether they be for personal projects or done as part of a company.
 
-# Product School Project
+# Product School Project - Streamium
 
 <b>Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
 
