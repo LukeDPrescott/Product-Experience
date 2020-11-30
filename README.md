@@ -6,7 +6,7 @@ A product expert with 6+ years in SaaS technical solutions and projects. Below y
 # Product School Project - Streamium
 
 <img src="Streamium SIgn Up Page - Iphone.png"
-     width="35%" height="35"
+     width="35%" height="35%"
      alt="Streamium SIgn Up Page - Iphone.png"
      style="float: left; margin-right: 1px;" />
 
