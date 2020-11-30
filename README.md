@@ -26,7 +26,14 @@ A product expert with 6+ years in SaaS technical solutions and projects. Below y
 
 <b>A / B Testing Analysis</b>
 
-<b>Wireframe & Prototype</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
+<b>Wireframe & Prototype</b>
+
+<img src="Wireframe & Prototype.PNG"
+     width="100%" height="100%"
+     alt="Wireframe & Prototype.PNG"
+     style="float: left; margin-right: 1px;" />
+
+Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
 
   Bulleted List;
 - Bullet One
