@@ -3,7 +3,7 @@
 Hi, I'm Luke,
 A product expert with 6+ years in SaaS technical solutions and projects. Below you will find information on the products that I have worked on, whether they be for personal projects or done as part of a company.
 
-# Product School Project - Streamium
+# Product School - Streamium
 
 <img src="Streamium SIgn Up Page - Iphone.png"
      width="35%" height="35%"
