@@ -16,9 +16,6 @@ A product expert with 6+ years in SaaS technical solutions and projects. Below y
      style="float: left; margin-right: 1px;" />
 
 Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of product enhancement, and determine if the product enhancement makes sense with business objectives.
-
-<UL><LI><a href="https://www.dropbox.com/s/0slmui1onjrkcrz/Financial%20Model%20Example.xlsx?dl=0">Microsoft Excel Financial Model</a>
-</UL>
  
 Luke Prescott
 
